@@ -28,6 +28,7 @@ Je n'ai pas pu implémenter la rotation des pieces, qui est un des mechnismes de
     Pour palier au maximum ce problème, j'ai rejoins le Discord de Indigo (qui contient quelques bouts de code)
 J'aurais également souhaité afficher la prévisualisation de la piece suivante
 Une autre fonctionnalité aurait été la sauvegarde du score, avec un classement des meilleurs joueurs
+j'aurai également voulu implementer la suppression des lignes
 
 
 
