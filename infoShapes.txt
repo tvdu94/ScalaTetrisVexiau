@@ -1,0 +1,53 @@
+In this file, here is the description of all shapes used in Tetris.
+
+[ represent the position of xPos and yPos
+
+name : I
+color : Cyan (2)
+
+representation :
+|
+|
+|
+[
+
+name : J
+color : DarkBlue (3)
+representation :
+  |
+  |
+[ |
+
+
+name : L
+color : Orange (1)
+representation :
+|
+|
+[ |
+
+
+name : O
+color : Yellow (4)
+representation :
+| |
+[ |
+
+name : Z
+color : Red (7)
+representation :
+| |
+  [ |
+
+
+name : S
+color : Green (5)
+representation :
+  | |
+[ |
+
+name : T
+color : Purple (6)
+representation :
+[ | |
+  |
